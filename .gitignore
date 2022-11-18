@@ -1,0 +1,19 @@
+.DS_Store
+.idea
+.vscode
+*.vcd
+*.class
+runs/
+openlane/
+pdk/
+caravel_user_project/
+src/tt2_tholin_diceroll.v
+src/user_config.tcl
+
+__pycache__/
+sim_build/
+gds_out/
+
+# Unit test results
+*.xml
+*.vcd
