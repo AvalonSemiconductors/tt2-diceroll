@@ -14,7 +14,7 @@ project:
 #
 # This info will be automatically collected and used to make a datasheet for the chip.
 documentation:
-  discord_username: "Tholin#7559"
+  discord:      "Tholin#7559"
   author:       "Tholin"      # Your name
   title:        "Dice roll"      # Project title
   description:  "Will roll a random number from 1 - 6 on the 7-segment display, like a dice."      # Short description of what your project does
